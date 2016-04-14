@@ -1,0 +1,18 @@
+BLEUJ */
+public class aereos extends vehiculos
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    /**
+     * Constructor for objects of class aereos
+     */
+    public aereos()
+    {
+    
+    NETBEANS
+    
+    public class aereos extends vehiculos {
+        int numero;
+    public aereos (){
+        numero = 3;
