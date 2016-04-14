@@ -1,0 +1,22 @@
+
+BLUEJ
+public class barco extends acuatico
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    /**
+     * Constructor for objects of class barco
+     */
+    public barco()
+    {
+        // initialise instance variables
+        x = 0;
+    }
+    NETBEANS
+    public class barco  extends acuatico {
+    int numero;
+    public barco (){
+        numero = 4; 
+}
+    
