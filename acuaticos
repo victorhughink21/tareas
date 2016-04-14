@@ -1,0 +1,16 @@
+BLUEJ
+ /**
+     * Constructor for objects of class acuatico
+     */
+    public acuatico()
+    {
+        // initialise instance variables
+        x = 0;
+    }
+
+NETBEANS
+
+public class acuatico extends vehiculos {
+    int numero;
+    public acuatico (){
+        numero = 2;
