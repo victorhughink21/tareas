@@ -21,3 +21,25 @@ private int x;
         return x + y;
     }
 }
+NETBEANS
+ public static void main(String[] args) {
+        // TODO code application logic here
+        vehiculos r = new vehiculos ();
+        acuatico AC = new acuatico ();
+        aereos AE = new aereos ();
+        barco B = new barco ();
+        velero V = new velero ();
+        avion A = new avion ();
+        helicoptero H = new helicoptero ();
+        
+         System.out.println(r.numero);
+            System.out.println(AC.numero);
+            System.out.println(AE.numero);
+            System.out.println(B.numero);
+            System.out.println(V.numero);
+            System.out.println(A.numero);
+            System.out.println(H.numero);
+    }
+    }
+    
+
