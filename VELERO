@@ -1,0 +1,23 @@
+BLUE J
+
+public class velero extends acuatico
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    /**
+     * Constructor for objects of class velero
+     */
+    public velero()
+    {
+        // initialise instance variables
+        x = 0;
+    }
+    NETBEANS
+    
+    public class velero extends acuatico {
+    int numero;
+    public velero (){
+        numero = 5;  
+}
+}
