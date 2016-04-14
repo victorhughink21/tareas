@@ -1,0 +1,21 @@
+BLUEJ
+public class avion extends aereos
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    /**
+     * Constructor for objects of class avion
+     */
+    public avion()
+    {
+        // initialise instance variables
+        x = 0;
+        
+        NETBEANS
+        
+        ublic class avion extends aereos {
+     int numero;
+    public avion (){
+        numero = 6; 
+}
