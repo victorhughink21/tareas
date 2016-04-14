@@ -1,0 +1,21 @@
+BLUEJ
+public class helicoptero extends aereos
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    /**
+     * Constructor for objects of class helicoptero
+     */
+    public helicoptero()
+    {
+        // initialise instance variables
+        x = 0;
+        
+        NETBEANS
+        
+        
+public class helicoptero extends aereos {
+     int numero;
+    public helicoptero(){
+        numero = 7; 
